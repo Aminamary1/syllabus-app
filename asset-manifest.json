@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/syllabus-app/static/css/main.16d7ee3b.chunk.css",
+    "main.js": "/syllabus-app/static/js/main.b71b4810.chunk.js",
+    "main.js.map": "/syllabus-app/static/js/main.b71b4810.chunk.js.map",
+    "runtime-main.js": "/syllabus-app/static/js/runtime-main.169eb2a4.js",
+    "runtime-main.js.map": "/syllabus-app/static/js/runtime-main.169eb2a4.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/syllabus-app/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.8a6f6bff.chunk.js": "/syllabus-app/static/js/2.8a6f6bff.chunk.js",
+    "static/js/2.8a6f6bff.chunk.js.map": "/syllabus-app/static/js/2.8a6f6bff.chunk.js.map",
+    "index.html": "/syllabus-app/index.html",
+    "precache-manifest.924706921becdfa4f1729a6b006d7c7e.js": "/syllabus-app/precache-manifest.924706921becdfa4f1729a6b006d7c7e.js",
+    "service-worker.js": "/syllabus-app/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/syllabus-app/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.16d7ee3b.chunk.css.map": "/syllabus-app/static/css/main.16d7ee3b.chunk.css.map",
+    "static/js/2.8a6f6bff.chunk.js.LICENSE.txt": "/syllabus-app/static/js/2.8a6f6bff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.169eb2a4.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.8a6f6bff.chunk.js",
+    "static/css/main.16d7ee3b.chunk.css",
+    "static/js/main.b71b4810.chunk.js"
+  ]
+}
